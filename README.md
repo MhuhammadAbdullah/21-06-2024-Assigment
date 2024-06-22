@@ -1,2 +1,2 @@
-# 21-06-2024-Assigment
+# SMIT-Resturent-Demo-Assigment
 This is my first repo
